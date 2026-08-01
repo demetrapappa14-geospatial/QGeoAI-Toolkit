@@ -1,0 +1,16 @@
+[general]
+name=QGeoAI Toolkit
+description=Supervised GeoAI classification, spectral indices and two-date change detection for QGIS.
+about=QGeoAI Toolkit provides Random Forest and Support Vector Machine classification, spectral-index calculation, two-raster change detection, accuracy assessment, confusion matrices, classification reports, model saving and GeoTIFF export.
+version=1.1.0
+qgisMinimumVersion=3.44
+qgisMaximumVersion=3.99
+author=Dimitra Pappa
+email=demetrapappa14@gmail.com
+category=Raster
+icon=icon.png
+experimental=False
+homepage=https://github.com/demetrapappa14-geospatial/QGeoAI-Toolkit
+repository=https://github.com/demetrapappa14-geospatial/QGeoAI-Toolkit
+tracker=https://github.com/demetrapappa14-geospatial/QGeoAI-Toolkit/issues
+tags=GeoAI,machine learning,remote sensing,random forest,SVM,classification,Sentinel-2,QGIS,raster,NDVI,NDWI,NBR,SAVI,GNDVI,NDMI,change detection
