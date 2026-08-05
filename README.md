@@ -146,18 +146,33 @@ Future versions will include additional GeoAI methods.
 ---
 
 # Screenshots
+# Screenshots
 
 ## Main Interface
 
-The QGeoAI Toolkit  provides a user-friendly intreface for 2 algorithms computation in the first page using training areas also and in the second page providing a coputation for some of the spectral indices.
+The QGeoAI Toolkit provides a user-friendly interface for spectral index computation and AI-based image classification directly within QGIS.
 
 <table>
 <tr>
-<b>Algorithms Computation </b>
-<td align='center'>
-<img src="interface_1.png" width='"100"/><br>
 
+<td align="center">
 
+<b>Machine Learning Module</b><br><br>
+
+<img src="interface_1.png" width="450"/>
+
+</td>
+
+<td align="center">
+
+<b>Spectral Indices Module</b><br><br>
+
+<img src="interface_2.png" width="450"/>
+
+</td>
+
+</tr>
+</table>
 
 ------
 
