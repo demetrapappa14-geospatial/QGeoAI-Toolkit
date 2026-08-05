@@ -149,9 +149,16 @@ Future versions will include additional GeoAI methods.
 
 ## Main Interface
 
-> *(Add a screenshot here)*
+The QGeoAI Toolkit  provides a user-friendly intreface for 2 algorithms computation in the first page using training areas also and in the second page providing a coputation for some of the spectral indices.
 
----
+<table>
+<tr>
+<b>Algorithms Computation </b>
+<td align='center'>
+<img src="interface_1.png" width='"100"/><br>
+
+
+
 
 ## Spectral Indices
 
