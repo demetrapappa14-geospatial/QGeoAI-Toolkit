@@ -146,7 +146,6 @@ Future versions will include additional GeoAI methods.
 ---
 
 # Screenshots
-# Screenshots
 
 ## Main Interface
 
