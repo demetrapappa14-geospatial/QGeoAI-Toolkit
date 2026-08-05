@@ -237,6 +237,7 @@ If you use QGeoAI Toolkit in your research, please cite this repository.
 
 ---
 
+
 # License
 
 This project is distributed under the **MIT License**.
