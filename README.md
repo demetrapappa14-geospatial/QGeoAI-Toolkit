@@ -159,6 +159,7 @@ The QGeoAI Toolkit  provides a user-friendly intreface for 2 algorithms computat
 
 
 
+------
 
 ## Spectral Indices
 
@@ -256,7 +257,7 @@ GitHub:
 
 https://github.com/demetrapappa14-geospatial
 
----
+--
 
 <div align="center">
 
