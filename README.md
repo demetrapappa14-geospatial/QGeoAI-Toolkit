@@ -238,10 +238,10 @@ QGeoAI Toolkit can currently be installed manually from Github repository or Qgi
 ---
 ## Installing the required libraries 
 The libraries must be installed **inside the Qgis python enviroment**.
-## Step 1.
+## Step 1
 Close QGIS.
 
-## Step 2. 
+## Step 2
 Open **OSGeo4W Shell**.
 
 ## Step 3
