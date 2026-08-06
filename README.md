@@ -239,18 +239,22 @@ Close QGIS.
 ## Step 2. 
 Open **OSGeo4W Shell**.
 
-## Step 3. 
-Upgrade pip (optional but recomended).
+## Step 3
+
+Upgrade **pip** (optional but recommended).
+
 ```bash
 python -m pip install --upgrade pip
-```.
+```
 
-## Step 4.
+## Step 4
 
-install the required libraries
+Install the required libraries.
+
 ```bash
 python -m pip install numpy scikit-learn joblib
 ```
+
 
 ### Step 5
 
