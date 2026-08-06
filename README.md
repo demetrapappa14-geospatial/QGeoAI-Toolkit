@@ -220,6 +220,66 @@ The plugin is built using the following Python libraries:
 | QGIS Python API | GIS functionality and layer management |
 
 ---
+
+# Installation 
+QGeoAI Toolkit can currently be installed manually from Github repository or Qgis Plugins.The following libraries must be installed before using the **Random Forest** and **Support Vector Machine (SVM)** modules.
+
+| Library | Required | Purpose |
+|----------|----------|---------|
+| NumPy | ✅ | Numerical computations and raster array operations |
+| Scikit-learn | ✅ | Random Forest, SVM and machine learning algorithms |
+| Joblib | ✅ | Saving and loading trained machine learning models |
+
+---
+## Installing the required libraries 
+The libraries must be installed **inside the Qgis python enviroment**.
+## Step 1.
+Close QGIS.
+
+## Step 2. 
+Open **OSGeo4W Shell**.
+
+## Step 3. 
+Upgrade pip (optional but recomended).
+```bash
+python -m pip install --upgrade pip
+```.
+
+## Step 4.
+
+install the required libraries
+```bash
+python -m pip install numpy scikit-learn joblib
+```
+
+### Step 5
+
+Restart QGIS.
+
+---
+
+## Verify the installation
+
+Open **OSGeo4W Shell** and execute
+
+```bash
+python -c "import numpy, sklearn, joblib; print('Installation completed successfully.')"
+```
+
+If no error appears, all required libraries have been installed correctly.
+
+---
+
+> **Important**
+>
+> If **Scikit-learn** is not installed, the spectral index tools will still work correctly.
+>
+> However, the **Random Forest** and **Support Vector Machine (SVM)** classifiers will not run and QGIS may display the following error:
+>
+> ```text
+> No module named 'sklearn'
+> ```
+
 # Roadmap
 
 - Deep Learning Classification
