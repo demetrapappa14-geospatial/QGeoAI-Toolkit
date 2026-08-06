@@ -11,7 +11,10 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-
+![OSGeo4W](https://img.shields.io/badge/OSGeo4W-Shell-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Required-orange?logo=numpy)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-Required-F7931E?logo=scikitlearn)
+![Joblib](https://img.shields.io/badge/Joblib-Required-lightgrey)
 **Open-source QGIS plugin for GeoAI, Remote Sensing, Earth Observation and Machine Learning.**
 
 ---
