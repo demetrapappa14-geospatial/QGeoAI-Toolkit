@@ -163,13 +163,11 @@ The QGeoAI Toolkit  provides a user-friendly intreface for 2 algorithms computat
 
 ## Spectral Indices
 
-> *(NDVI, NDWI, SAVI examples)*
 
 ---
 
 ## Random Forest Classification
 
-> *(Classification screenshot)*
 
 ---
 
@@ -204,7 +202,20 @@ QGeoAI-Toolkit
 | Joblib | Latest |
 
 ---
+# Python Libraries
 
+The plugin is built using the following Python libraries:
+
+| Library | Purpose |
+|----------|---------|
+| NumPy | Numerical array operations |
+| Rasterio | Reading and writing raster datasets |
+| Scikit-Learn | Machine Learning algorithms |
+| Joblib | Model serialization |
+| PyQt5 | Graphical User Interface |
+| QGIS Python API | GIS functionality and layer management |
+
+---
 # Roadmap
 
 - Deep Learning Classification
