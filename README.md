@@ -16,6 +16,7 @@
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-Required-F7931E?logo=scikitlearn)
 ![Joblib](https://img.shields.io/badge/Joblib-Required-lightgrey)
 
+---
 **Open-source QGIS plugin for GeoAI, Remote Sensing, Earth Observation and Machine Learning.**
 
 ---
