@@ -175,16 +175,6 @@ The QGeoAI Toolkit provides a user-friendly interface for spectral index computa
 
 ------
 
-## Spectral Indices
-
-
----
-
-## Random Forest Classification
-
-
----
-
 # Project Structure
 
 ```text
