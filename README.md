@@ -342,6 +342,7 @@ GitHub:
 
 https://github.com/demetrapappa14-geospatial/QGeoAI-Toolkit
 
+
 --
 
 <div align="center">
