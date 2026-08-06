@@ -281,7 +281,7 @@ GeoAI • Remote Sensing • GIS • Earth Observation
 
 GitHub:
 
-https://github.com/demetrapappa14-geospatial
+https://github.com/demetrapappa14-geospatial/QGeoAI-Toolkit
 
 --
 
